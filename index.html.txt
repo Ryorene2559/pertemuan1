@@ -7,7 +7,7 @@
 </head>
 <body>
     <body>
-    <h1> Alfonsila Satrio Adista P. - 230712559 </h1>
+    <h1> Alfonsila Satrio - 230712559 </h1>
 </body>
 </body>
 </html>
